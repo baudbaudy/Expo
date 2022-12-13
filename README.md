@@ -18,4 +18,4 @@ Ce compte rendu permet de revenir aux débuts souvent problématiques de plusieu
 Le mode de travail, la méthodologie, et les résultats sont résumés dans un rapport qui s'appelle `git_expo-univ_compte-rendu.pdf`.
 
 ## Données
-Les articles dont les pages l'équipe a encodé sont resumés dans des sous-dossiers du dossier `Donnees`. Chaque sous-dossier porte le titre de l'article. Ces sous-dossiers contiennent les images de l'article et son encodage en format XML. Les noms des fichiers PNG et XML portent le prénom du membre de l'équipe qui l'a encodé, le titre de l'article, et le numéro de page tel qu'il se trouve sur l'imprimé.
+Le fichier Articles contient les images de l'article et son encodage en format XML. Les noms des fichiers PNG et XML portent le prénom du membre de l'équipe qui l'a encodé, le titre de l'article, et le numéro de page tel qu'il se trouve sur l'imprimé.
